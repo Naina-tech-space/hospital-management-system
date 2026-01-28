@@ -1,2 +1,2 @@
-# hospital-management-system
+Hospital Management System is a console-based application developed using Python that provides basic hospital record management functionality. The system allows users to add, search, update, and delete patient records while ensuring data validation and uniqueness of patient IDs. Patient information is stored persistently using file handling, enabling data to be retained across multiple program executions. The project also incorporates logging to track important system actions, demonstrating real-world software development practices such as CRUD operations, error handling, and version control using Git and GitHub.# hospital-management-system
 A basic Hospital Management System using Python
